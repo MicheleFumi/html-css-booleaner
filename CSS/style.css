@@ -20,6 +20,10 @@ header{
     
 
 }
+.underline{
+    background-color: yellow;
+
+}
 .main-title{
     font-size: 40px;
 }
@@ -58,7 +62,16 @@ th, td {
     background-color: hsl(191, 100%, 50%);
     color: black;
 }
-.MIGHT{
+
+
+.top-left{
+    color: black;
+    
+}
+
+
+.might{
     color: rgb(158, 155, 155);
 
 }
+   
