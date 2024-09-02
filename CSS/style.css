@@ -4,8 +4,8 @@ body{
 
 
 
-main,footer,.logo{
-    margin: bottom;   
+main,footer{
+    margin: auto;   
     width: 70%;
     background-attachment: fixed;
 }
@@ -46,9 +46,10 @@ table{
     width: 100%;
 }
 
-th, td {
+tr,td {
     text-align: left;
-    padding: 8px;
+    padding-right: 0px;
+    padding-bottom: 0px;
     
   }
 
@@ -69,6 +70,7 @@ th, td {
 .subject-table{
     background-color: hsl(191, 100%, 50%);
     color: black;
+
 }
 
 
@@ -82,4 +84,7 @@ th, td {
     color: rgb(158, 155, 155);
 
 }
-   
+   footer{
+background-image: url(./IMG/monitor.jpg);
+
+   }
